@@ -4,4 +4,4 @@
 O πλήρης οδηγός σε επεξεργάσιμη μορφή στο [github](...) και σε [PDF](...).
 
 
-The Mature Open Source Projects Toolkit presents trends, the current situation internationally regarding the use and development of popular open source projects, an evaluation of mature open source projects and best practices internationally suitable for the Public and Private Sectors in Greece.
+The Mature Open Source Projects Toolkit presents trends, current situation internationally regarding the use and development of popular open source projects, an evaluation of mature open source projects and best practices suitable for the Public and Private Sectors in Greece.
