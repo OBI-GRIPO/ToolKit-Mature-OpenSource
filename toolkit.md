@@ -756,88 +756,809 @@ developer community (total commits).
 ==============================
 
 3.1. Καταγραφή ενδεικτικών έργων (λογισμικά)
---------------------------------------------
 
-  <span id="OLE_LINK21" class="anchor"><span id="OLE_LINK22" class="anchor"><span id="OLE_LINK23" class="anchor"><span id="OLE_LINK24" class="anchor"></span></span></span></span>**Περιγραφή ώριμου λογισμικού**
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Τίτλος λογισμικού:
-  Τομείς αξιοποίησης:
-  URL λογισμικού:
-  URL κοινότητας:
-  Σύντομη περιγραφή:
-  Μέγεθος κοινότητα χρηστών:
-  Επίπεδο ωριμότητας:
-  Μέγεθος κοινότητα ανάπτυξης:
-  Επίπεδο τεκμηρίωσης
-  Άδεια χρήσης:
-  Επίπεδο εξελληνισμού:
-  Επίπεδο προσαρμογής στην Ελληνική Πραγματικότητα:
-  Υποστήριξη από ιδιωτικές εταιρείες:
+<table width="567" cellpadding="7" cellspacing="0">
+	<col width="192">
+	<col width="345">
+	<tr>
+		<td colspan="2" width="551" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><a name="OLE_LINK24"></a><a name="OLE_LINK23"></a><a name="OLE_LINK22"></a><a name="OLE_LINK21"></a>
+			<font face="Arial, serif"><font size="4" style="font-size: 14pt"><b>Περιγραφή
+			ώριμου λογισμικού</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τίτλος
+			λογισμικού: </font></font>
+			</p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><b>OpenSIPS
+			(Open SIP Server)</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τομείς
+			αξιοποίησης:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Συστήματα
+			Συνεργασίας</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">λογισμικού:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.opensips.org/</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">κοινότητας:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.opensips.org/Community/Foundation-Main</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Σύντομη
+			περιγραφή:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p align="justify"><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">To</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">OpenSIPS</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			(</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">Open</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">SIP</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">Server</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">)
+			είναι μια ώριμη υλοποίηση ανοιχτού
+			λογισμικού ενός διακομιστή </font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">SIP</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">.
+			 Το OpenSIPS είναι κάτι περισσότερο από
+			ένα SIP-Proxy / router καθώς περιλαμβάνει
+			λειτουργίες σε επίπεδο εφαρμογών.
+			Είναι το βασικό στοιχείο κάθε λύσης
+			VoIP που βασίζονται σε SIP με μια πολύ
+			ευέλικτη και προσαρμόσιμη μηχανή
+			δρομολόγησης, Το OpenSIPS ενοποιεί φωνή,
+			βίντεο, IM και παρουσία εξυπηρέτηση σε
+			ένα ιδιαίτερα αποδοτικό τρόπο.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα χρηστών:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			ωριμότητας:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα ανάπτυξης:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			τεκμηρίωσης</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Άδεια
+			χρήσης:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GNU
+			General Public License (GPL)</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			εξελληνισμού:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			προσαρμογής στην Ελληνική Πραγματικότητα:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="192" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Υποστήριξη
+			από ιδιωτικές εταιρείες:</font></font></p>
+		</td>
+		<td width="345" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+<p align="justify" style="margin-left: 0.75in; margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<p align="justify" style="margin-left: 0.75in; margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<table width="567" cellpadding="7" cellspacing="0">
+	<col width="212">
+	<col width="325">
+	<tr>
+		<td colspan="2" width="551" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="4" style="font-size: 14pt"><b>Περιγραφή
+			ώριμου λογισμικού</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τίτλος
+			λογισμικού: </font></font>
+			</p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><b>Asterisk</b></span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τομείς
+			αξιοποίησης:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Συστήματα
+			Συνεργασίας</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">λογισμικού:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.asterisk.org/</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">κοινότητας:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.asterisk.org/community</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Σύντομη
+			περιγραφή:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p align="justify"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Asterisk
+			είναι ένα ανοικτό λογισμικό για τη
+			δημιουργία εφαρμογών επικοινωνιών.
+			Asterisk μετατρέπει ένα υπολογιστικό 
+			σύστημα σε έναν εξυπηρετητή επικοινωνιών.
+			Χρησιμοποιείται από τις μικρές
+			επιχειρήσεις, μεγάλες επιχειρήσεις,
+			τηλεφωνικά κέντρα, φορείς και
+			κυβερνητικούς οργανισμούς, σε όλο τον
+			κόσμο. </font></font>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα χρηστών:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			ωριμότητας:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα ανάπτυξης:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			τεκμηρίωσης</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Άδεια
+			χρήσης:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GNU
+			General Public License (GPL)</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			εξελληνισμού:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			προσαρμογής στην Ελληνική Πραγματικότητα:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Υποστήριξη
+			από ιδιωτικές εταιρείες:</font></font></p>
+		</td>
+		<td width="325" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+<p lang="en-US" align="justify" style="margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<p lang="en-US" align="justify" style="margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<table width="567" cellpadding="7" cellspacing="0">
+	<col width="287">
+	<col width="250">
+	<tr>
+		<td colspan="2" width="551" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="4" style="font-size: 14pt"><b>Περιγραφή
+			ώριμου λογισμικού</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τίτλος
+			λογισμικού: </font></font>
+			</p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><b>Moodle</b></span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τομείς
+			αξιοποίησης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Εκπαιδευτικό
+			Λογισμικό (e-learning Software)</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">λογισμικού:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.openeclass.org</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">κοινότητας:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p lang="en-US"><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Σύντομη
+			περιγραφή:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p align="justify"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Το
+			Moodle είναι ένα εκπαιδευτικό λογισμικό
+			σχεδιασμένο για να παρέχει στους
+			εκπαιδευτές τους διαχειριστές και
+			στους μαθητευόμενους, ένα ολοκληρωμένο
+			περιβάλλον για να δημιουργούν προσωπικά
+			περιβάλλοντα εκμάθησης.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα χρηστών:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			ωριμότητας:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα ανάπτυξης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			τεκμηρίωσης</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Άδεια
+			χρήσης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GPL-2.0+</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			εξελληνισμού:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			προσαρμογής στην Ελληνική Πραγματικότητα:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Υποστήριξη
+			από ιδιωτικές εταιρείες:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+<p lang="en-US" align="justify" style="margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<p lang="en-US" align="justify" style="margin-left: 0.75in; margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<table width="567" cellpadding="7" cellspacing="0">
+	<col width="287">
+	<col width="250">
+	<tr>
+		<td colspan="2" width="551" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="4" style="font-size: 14pt"><b>Περιγραφή
+			ώριμου λογισμικού</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τίτλος
+			λογισμικού: </font></font>
+			</p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><b>Open
+			eClass</b></span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τομείς
+			αξιοποίησης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Εκπαιδευτικό
+			Λογισμικό (e-learning Software)</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">λογισμικού:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://</span></font></font><font color="#ff0000"><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">moodle</span></font></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">.org/</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">κοινότητας:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p lang="en-US"><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Σύντομη
+			περιγραφή:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p align="justify"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Η
+			πλατφόρμα </font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">Open</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">eClass</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			είναι ένα ολοκληρωμένο Σύστημα
+			Διαχείρισης Ηλεκτρονικών Μαθημάτων
+			και συνιστά προσφορά του Ελληνικού
+			Ακαδημαϊκού Διαδικτύου (</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GUnet</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">)
+			στην εκπαιδευτική και ακαδημαϊκή
+			κοινότητα. Έχει σχεδιαστεί με
+			προσανατολισμό την ενίσχυση της
+			εκπαιδευτικής διαδικασίας, βασίζεται
+			στη φιλοσοφία του λογισμικού ανοικτού
+			κώδικα, υποστηρίζεται ενεργά από το
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GUnet</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			και διανέμεται ελεύθερα. Βασική
+			επιδίωξη της πλατφόρμας είναι η
+			ενσωμάτωση των νέων τεχνολογιών και
+			η εποικοδομητική χρήση του διαδικτύου
+			στην εκπαιδευτική διαδικασία.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα χρηστών:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			ωριμότητας:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα ανάπτυξης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			τεκμηρίωσης</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Άδεια
+			χρήσης:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GPL-2.0+</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			εξελληνισμού:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			προσαρμογής στην Ελληνική Πραγματικότητα:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="287" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Υποστήριξη
+			από ιδιωτικές εταιρείες:</font></font></p>
+		</td>
+		<td width="250" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><br>
+			</p>
+		</td>
+	</tr>
+</table>
+<p lang="en-US" align="justify" style="margin-left: 0.75in; margin-bottom: 0.14in; line-height: 150%">
+<br><br>
+</p>
+<p align="justify" style="margin-bottom: 0.14in; line-height: 150%"><br><br>
+</p>
+<table width="614" cellpadding="7" cellspacing="0">
+	<col width="212">
+	<col width="373">
+	<tr>
+		<td colspan="2" width="598" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="4" style="font-size: 14pt"><b>Περιγραφή
+			ώριμου λογισμικού</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τίτλος
+			λογισμικού: </font></font>
+			</p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US"><b>LibreOffice</b></span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τομείς
+			αξιοποίησης:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Αυτοματοποίηση
+			Γραφείου</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">λογισμικού:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">http://www.libreoffice.org/</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">URL
+			</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">κοινότητας:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">https://wiki.documentfoundation.org/</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Σύντομη
+			περιγραφή:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p align="justify" style="margin-bottom: 0in"><font face="Arial, serif"><font size="3" style="font-size: 12pt">To
+			LibreOffice είναι μια σουίτα αυτοματοποίησης
+			γραφείου Ανοικτού Κώδικα, η οποία
+			περιλαμβάνει έξι εφαρμογές, πλούσιες
+			σε χαρακτηριστικά, για τη δημιουργία
+			εγγράφων και τη διαχείριση δεδομένων.
+			Πιο συγκεκριμένα, η σουίτα περιλαμβάνει
+			τις ακόλουθες εφαρμογές: </font></font>
+			</p>
+			<p align="justify" style="margin-bottom: 0in"><font face="Arial, serif"><font size="3" style="font-size: 12pt">α)
+			τον Επεξεργαστή Κειμένων Writer, β) το
+			Υπολογιστικό Φύλλο Calc, γ) την εφαρμογή
+			Παρουσίασης Διαφανειών Impress, δ) την
+			εφαρμογή Σχεδίασης / Ζωγραφικής Draw,
+			ε) την εφαρμογή Διαχείρισης Μαθηματικών
+			Τύπων και Υπολογισμών Math και στ) την
+			εφαρμογή Βάσης Δεδομένων Base.</font></font></p>
+			<p align="justify" style="margin-bottom: 0in"><br>
+			</p>
+			<p align="justify"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Το
+			LibreOffice λειτουργεί σήμερα στις πλατφόρμες
+			Microsoft Windows, GNU/Linux, Mac OS X, FreeBSD, Solaris και σε
+			διάφορες άλλες παραλλαγές του Unix.</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα χρηστών:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Περισσότερες
+			από 120 εκατομμύρια μοναδικές διευθύνσεις
+			λήψεις έως το Μάιο 2015. Σε αυτές δεν
+			συμπεριλαμβάνονται οι διανομές </font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">Linux</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			στις οποίες το </font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">LibreOffice</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			είναι προεγκατεστημένο</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			ωριμότητας:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p style="margin-bottom: 0in"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Τρέχουσα
+			σταθερή έκδοση: 5.0.4, Δεκέμβριος 2015</font></font></p>
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Πρώτη
+			σταθερή: Ιανουάριος 2011</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Μέγεθος
+			κοινότητα ανάπτυξης:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Περισσότεροι
+			από 1400 άνθρωποι</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			τεκμηρίωσης</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Πλήρης
+			τεκμηρίωση</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Άδεια
+			χρήσης:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">GNU</span></font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt">
+			</font></font><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">LGPLv3</span></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			εξελληνισμού:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Πλήρης
+			υποστήριξη Ελληνικής γλώσσας τόσο σε
+			ότι αφορά τη γραφική διεπαφή της
+			σουίτας όσο και τις οδηγίες χρήσης
+			της</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Επίπεδο
+			προσαρμογής στην Ελληνική Πραγματικότητα:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Προσαρμοσμένο
+			στις διαφοροποιήσεις τις Ελληνικής
+			πραγματικότητας</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="212" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt">Υποστήριξη
+			από ιδιωτικές εταιρείες:</font></font></p>
+		</td>
+		<td width="373" valign="top" style="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<p style="margin-bottom: 0in"><font face="Arial, serif"><font size="3" style="font-size: 12pt">Έχει
+			δημιουργηθεί συμβουλευτική επιτροπή
+			για την περεταίρω ανάπτυξη της σουίτας,
+			την οποία απαρτίζουν οι ακόλουθες
+			εταιρίες:</font></font></p>
+			<p><font face="Arial, serif"><font size="3" style="font-size: 12pt"><span lang="en-US">AMD,
+			CIB Software, City of Munich, CloudOn, Collabora, Free Software
+			Foundation, Google, Intel, KACST (King Abdul-Aziz City for Science
+			&amp; Technology), Lanedo, MiMo (French Government), Red Hat, RPA
+			RusBITech, SPI, Studio Storti, SUSE, ITOMIG</span></font></font></p>
+		</td>
+	</tr>
+</table>
 
-  **Περιγραφή ώριμου λογισμικού**
-  --------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Τίτλος λογισμικού:
-  Τομείς αξιοποίησης:
-  URL λογισμικού:
-  URL κοινότητας:
-  Σύντομη περιγραφή:
-  Μέγεθος κοινότητα χρηστών:
-  Επίπεδο ωριμότητας:
-  Μέγεθος κοινότητα ανάπτυξης:
-  Επίπεδο τεκμηρίωσης
-  Άδεια χρήσης:
-  Επίπεδο εξελληνισμού:
-  Επίπεδο προσαρμογής στην Ελληνική Πραγματικότητα:
-  Υποστήριξη από ιδιωτικές εταιρείες:
-
-  **Περιγραφή ώριμου λογισμικού**
-  --------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Τίτλος λογισμικού:
-  Τομείς αξιοποίησης:
-  URL λογισμικού:
-  URL κοινότητας:
-  Σύντομη περιγραφή:
-  Μέγεθος κοινότητα χρηστών:
-  Επίπεδο ωριμότητας:
-  Μέγεθος κοινότητα ανάπτυξης:
-  Επίπεδο τεκμηρίωσης
-  Άδεια χρήσης:
-  Επίπεδο εξελληνισμού:
-  Επίπεδο προσαρμογής στην Ελληνική Πραγματικότητα:
-  Υποστήριξη από ιδιωτικές εταιρείες:
-
-  **Περιγραφή ώριμου λογισμικού**
-  --------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Τίτλος λογισμικού:
-  Τομείς αξιοποίησης:
-  URL λογισμικού:
-  URL κοινότητας:
-  Σύντομη περιγραφή:
-  Μέγεθος κοινότητα χρηστών:
-  Επίπεδο ωριμότητας:
-  Μέγεθος κοινότητα ανάπτυξης:
-  Επίπεδο τεκμηρίωσης
-  Άδεια χρήσης:
-  Επίπεδο εξελληνισμού:
-  Επίπεδο προσαρμογής στην Ελληνική Πραγματικότητα:
-  Υποστήριξη από ιδιωτικές εταιρείες:
-
-  **Περιγραφή ώριμου λογισμικού**
-  --------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Τίτλος λογισμικού:
-  Τομείς αξιοποίησης:
-  URL λογισμικού:
-  URL κοινότητας:
-  Σύντομη περιγραφή:
-  Μέγεθος κοινότητα χρηστών:
-  Επίπεδο ωριμότητας:
-  Μέγεθος κοινότητα ανάπτυξης:
-  Επίπεδο τεκμηρίωσης
-  Άδεια χρήσης:
-  Επίπεδο εξελληνισμού:
-  Επίπεδο προσαρμογής στην Ελληνική Πραγματικότητα:
-  Υποστήριξη από ιδιωτικές εταιρείες:
-
+-----------------------------------------
 3.2. Διεθνείς και Εθνικές καλές πρακτικές 
 ------------------------------------------
 
