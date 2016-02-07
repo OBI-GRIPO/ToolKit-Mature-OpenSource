@@ -4,7 +4,7 @@ ToolKit - Οδηγός Ώριμων Έργων Ανοιχτού Λογισμικ
 <span id="OLE_LINK5" class="anchor"><span id="OLE_LINK6"
 class="anchor"><span id="OLE_LINK7" class="anchor"><span id="OLE_LINK8"
 class="anchor"></span></span></span></span>
-**
+
 
 **Σύνοψη**
 
