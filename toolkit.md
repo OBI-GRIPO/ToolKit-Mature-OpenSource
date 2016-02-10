@@ -757,6 +757,10 @@ developer community (total commits).
 
 3.1. Καταγραφή ενδεικτικών έργων (λογισμικά)
 
+Για την αναλυτική καταγραφή λογισμικών ανά κατηγορία ανατρέξτε στο υπολογιστικό φύλλο: 
+https://github.com/ellak-monades-aristeias/ToolKit-Mature-OpenSource/blob/master/%CE%8F%CF%81%CE%B9%CE%BC%CE%B1%20%CE%88%CF%81%CE%B3%CE%B1%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CE%BF%CF%8D%20%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D%20-%20Mature-Open-Source-Software-v1.0.xlsx
+
+
 <table width="567" cellpadding="7" cellspacing="0">
 	<col width="192">
 	<col width="345">
@@ -1557,6 +1561,11 @@ developer community (total commits).
 		</td>
 	</tr>
 </table>
+
+
+Για την αναλυτική καταγραφή λογισμικών ανά κατηγορία ανατρέξτε στο υπολογιστικό φύλλο: 
+https://github.com/ellak-monades-aristeias/ToolKit-Mature-OpenSource/blob/master/%CE%8F%CF%81%CE%B9%CE%BC%CE%B1%20%CE%88%CF%81%CE%B3%CE%B1%20%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CE%BF%CF%8D%20%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D%20-%20Mature-Open-Source-Software-v1.0.xlsx
+
 
 -----------------------------------------
 3.2. Διεθνείς και Εθνικές καλές πρακτικές 
